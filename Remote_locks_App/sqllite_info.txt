@@ -1,0 +1,14 @@
+SQL Lite3 Database:
+
+
+sqlite3 /home/db/acngroup10
+
+
+[root@acngroup10 ~]# sqlite3 acngroup10
+SQLite version 3.7.6.3
+Enter ".help" for instructions
+Enter SQL statements terminated with a ";"
+sqlite> .databases
+seq  name             file                                                      
+---  ---------------  ----------------------------------------------------------
+0    main             /root/acngroup10    

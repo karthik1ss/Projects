@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent" android:weightSum="1">
+
+    <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/control_screen"
+            android:id="@+id/textView" android:layout_gravity="center_horizontal" android:textAlignment="center"
+            android:textSize="@dimen/text_size_25" android:singleLine="false"/>
+    <Space
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.25"/>
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:weightSum="1">
+        <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="59dp">
+            <Switch
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/switch_string"
+                    android:id="@+id/switch1"
+                    android:textOff="@string/locked" android:textOn="@string/unlocked"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp">
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Status: "
+                    android:textSize="15dp"/>
+            <TextView
+                    android:id = "@+id/displayText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"/>
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>

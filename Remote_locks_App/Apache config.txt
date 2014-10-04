@@ -1,0 +1,38 @@
+
+
+Apache configurations on mac
+
+
+To start the Apache server type the following command in your Terminal window
+
+sudo apachectl start
+
+
+To stop the Apache web server type the following command in your Terminal
+
+sudo apachectl stop
+
+
+To restart it
+
+sudo apachectl restart
+
+
+To find the Apache version
+
+httpd -v
+
+
+How to Configure Apache to enable PHP:
+
+You will need to edit your Apache Httpd configuration file to enable PHP.
+
+Inside your Terminal window type the following command to open the httpd.conf file in the editor nano
+
+sudo nano /etc/apache2/httpd.conf
+
+
+
+Uncomment the php line
+
+Now that the file is open, find the line where LoadModule php5_module libexec/apache2/libphp5.so is commented out.

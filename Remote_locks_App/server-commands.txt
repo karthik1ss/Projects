@@ -1,0 +1,5 @@
+
+
+Commands for start/stop/restart UTDallas server:
+
+for stopping the server/usr/sbin/httpd -f /opt/httpd/conf/httpd.conf -k stopfor starting the server/usr/sbin/httpd -f /opt/httpd/conf/httpd.conf -k startfor restarting the server/usr/sbin/httpd -f /opt/httpd/conf/httpd.conf -k restart

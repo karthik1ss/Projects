@@ -1,0 +1,20 @@
+
+
+login details for server:
+
+
+Open terminal -> ssh -l root acngroup10.utdallas.edu
+
+		password : doorlock
+
+Username/Password: root/doorlock/etc/httpd/conf/httpd-backup.conf  ===>  backup file for httpd.confType http://acngroup10.utdallas.edu:8000/ on browser to test connection
+
+Drop files on Server:
+
+host: acngroup10.utdallas.edu
+username: root
+password: doorlock
+port: 22
+
+
+go to cd /home

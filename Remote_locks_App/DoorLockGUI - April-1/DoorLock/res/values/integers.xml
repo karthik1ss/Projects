@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<integer name="email_tag_span">10</integer>
+	<integer name="email_box_span">23</integer>
+</resources>

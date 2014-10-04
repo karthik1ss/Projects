@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">DoorLock</string>
+	<string name="login">login</string>
+	<string name="password">Password:</string>
+	<string name="email_id">Email-id:</string>
+	<string name="control_screen">Control Screen</string>
+	<string name="door_controller">Door Lock Controller</string>
+	<string name="switch_string">Door Lock Switch</string>
+	<string name="locked">Lock</string>
+	<string name="unlocked">Unlock</string>
+</resources>
