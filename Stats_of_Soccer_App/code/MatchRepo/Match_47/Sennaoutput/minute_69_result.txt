@@ -1,0 +1,9 @@
+             69	         O
+   Substitution	         O
+            Out	         O
+          Adnan	     B-PER
+        Januzaj	     I-PER
+             In	     I-PER
+         Ashley	     I-PER
+          Young	     E-PER
+

@@ -1,0 +1,10 @@
+             79	         O
+   Substitution	         O
+            Out	         O
+             C.	     B-PER
+        Benteke	     I-PER
+             In	     I-PER
+          Libor	     I-PER
+            Koz	     E-PER
+              k	         O
+

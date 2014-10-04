@@ -1,0 +1,19 @@
+             27	         O
+         Yellow	         O
+           Card	         O
+        Michael	     B-PER
+         Dawson	     E-PER
+           FOUL	         O
+              !	         O
+           That	         O
+             's	         O
+        cynical	         O
+           from	         O
+         Dawson	     S-PER
+              ,	         O
+            who	         O
+          hauls	         O
+      Henderson	     S-PER
+           down	         O
+              .	         O
+

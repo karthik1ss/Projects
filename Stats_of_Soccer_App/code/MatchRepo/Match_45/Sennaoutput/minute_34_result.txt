@@ -1,0 +1,12 @@
+             34	         O
+          Spurs	     S-ORG
+            are	         O
+        skating	         O
+             on	         O
+           thin	         O
+            ice	         O
+             at	         O
+            the	         O
+         moment	         O
+            ...	         O
+

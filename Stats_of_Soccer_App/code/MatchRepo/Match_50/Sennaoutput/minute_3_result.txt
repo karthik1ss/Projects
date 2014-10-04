@@ -1,0 +1,16 @@
+              3	         O
+         Fairly	         O
+    encouraging	         O
+          start	         O
+             by	         O
+         Palace	         O
+             as	         O
+           they	         O
+            put	         O
+        Chelsea	     S-ORG
+          under	         O
+           some	         O
+          early	         O
+       pressure	         O
+              .	         O
+

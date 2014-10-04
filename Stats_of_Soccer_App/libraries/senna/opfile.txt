@@ -1,0 +1,36 @@
+invalid argument: Hi
+
+SENNA Tagger (POS - CHK - NER - SRL)
+(c) Ronan Collobert 2009
+
+Usage: ./senna [options]
+
+ Takes sentence (one line per sentence) on stdin
+ Outputs tags on stdout
+ Typical usage: ./senna [options] < inputfile.txt > outputfile.txt
+
+Display options:
+  -h             Display this help
+  -verbose       Display model informations on stderr
+  -notokentags   Do not output tokens
+  -offsettags    Output start/end offset of each token
+  -iobtags       Output IOB tags instead of IOBES
+  -brackettags   Output 'bracket' tags instead of IOBES
+
+Data options:
+  -path <path>   Path to the SENNA data/ and hash/ directories [default: ./]
+
+Input options:
+  -usrtokens     Use user's tokens (space separated) instead of SENNA tokenizer
+
+SRL options:
+  -posvbs        Use POS verbs instead of SRL style verbs for SRL task
+  -usrvbs <file> Use user's verbs (given in <file>) instead of SENNA verbs for SRL task
+
+Tagging options:
+  -pos           Output POS
+  -chk           Output CHK
+  -ner           Output NER
+  -srl           Output SRL
+  -psg           Output PSG
+

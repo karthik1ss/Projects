@@ -1,0 +1,25 @@
+             60	         O
+        Chelsea	     S-ORG
+           look	         O
+             to	         O
+           make	         O
+            the	         O
+           most	         O
+             of	         O
+              a	         O
+  counterattack	         O
+             as	         O
+         Hazard	         O
+       releases	         O
+         Torres	     S-PER
+         behind	         O
+            the	         O
+         Palace	         O
+        defence	         O
+              ,	         O
+            but	         O
+       Mariappa	     S-PER
+         covers	         O
+           well	         O
+              .	         O
+

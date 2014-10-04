@@ -1,0 +1,23 @@
+             50	         O
+     Agbonlahor	     S-PER
+           goes	         O
+           over	         O
+             to	         O
+             De	     B-PER
+            Gea	     E-PER
+             at	         O
+            the	         O
+         corner	         O
+            and	         O
+            the	         O
+            two	         O
+          start	         O
+              a	         O
+        shoving	         O
+          match	         O
+              .	         O
+           Both	         O
+            are	         O
+         booked	         O
+              .	         O
+

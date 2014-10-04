@@ -1,0 +1,22 @@
+             67	         O
+   SUBSTITUTION	         O
+              -	         O
+            Man	         O
+            Utd	         O
+              :	         O
+          Adnan	     B-PER
+        Januzaj	     E-PER
+       replaces	         O
+         Shinji	     B-PER
+         Kagawa	     E-PER
+              ,	         O
+            who	         O
+            has	         O
+            had	         O
+              a	         O
+           good	         O
+    performance	         O
+           this	         O
+      afternoon	         O
+              .	         O
+

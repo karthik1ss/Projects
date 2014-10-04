@@ -1,0 +1,13 @@
+             50	         O
+   Substitution	         O
+            Out	         O
+         Sergio	     B-ORG
+             Ag	     E-ORG
+            ero	         O
+             In	         O
+            Jes	         O
+              s	         O
+          Navas	     B-PER
+           Gonz	     E-PER
+            lez	         O
+

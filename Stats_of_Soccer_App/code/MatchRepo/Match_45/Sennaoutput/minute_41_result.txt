@@ -1,0 +1,26 @@
+             41	         O
+           This	         O
+            has	         O
+           been	         O
+              a	         O
+           VERY	         O
+     convincing	         O
+        display	         O
+           from	         O
+        Brendan	     B-PER
+        Rodgers	     E-PER
+              '	         O
+            men	         O
+          today	         O
+              .	         O
+            And	         O
+        without	         O
+         Steven	     B-PER
+        Gerrard	     E-PER
+            and	         O
+         Daniel	     B-PER
+      Sturridge	     E-PER
+              ,	         O
+            too	         O
+              .	         O
+

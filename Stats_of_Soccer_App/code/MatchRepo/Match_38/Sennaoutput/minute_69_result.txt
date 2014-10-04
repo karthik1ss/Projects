@@ -1,0 +1,9 @@
+             69	         O
+   Substitution	         O
+            Out	         O
+      Alexander	     B-PER
+     Kacaniklic	     I-PER
+             In	     I-PER
+         Pajtim	     I-PER
+         Kasami	     E-PER
+

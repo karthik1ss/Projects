@@ -1,0 +1,10 @@
+             44	         O
+             So	         O
+          there	         O
+      certainly	         O
+             is	         O
+           hope	         O
+            for	         O
+          Spurs	     S-ORG
+            ...	         O
+

@@ -1,0 +1,24 @@
+             85	         O
+          CLOSE	         O
+              !	         O
+    Fernandinho	     S-PER
+          tries	         O
+             to	         O
+         double	         O
+            his	         O
+          tally	         O
+            for	         O
+            the	         O
+            day	         O
+           with	         O
+              a	         O
+       powerful	         O
+         strike	         O
+            but	         O
+       Szczesny	     S-PER
+        somehow	         O
+          keeps	         O
+             it	         O
+            out	         O
+              !	         O
+

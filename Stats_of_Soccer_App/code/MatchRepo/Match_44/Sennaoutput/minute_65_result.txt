@@ -1,0 +1,24 @@
+             65	         O
+            But	         O
+            the	         O
+        Gunners	         O
+          still	         O
+           need	         O
+        another	         O
+           goal	         O
+              ,	         O
+           here	         O
+              ,	         O
+            and	         O
+           that	         O
+          looks	         O
+              a	         O
+           tall	         O
+          order	         O
+           with	         O
+           City	     S-ORG
+             's	         O
+        current	         O
+           form	         O
+              .	         O
+

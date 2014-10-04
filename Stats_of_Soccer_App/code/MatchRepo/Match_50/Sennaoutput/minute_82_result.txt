@@ -1,0 +1,11 @@
+             82	         O
+         Change	         O
+            for	         O
+        Chelsea	     S-ORG
+            now	         O
+             as	         O
+       Schurrle	     S-PER
+       replaces	         O
+        Willian	     S-PER
+              .	         O
+

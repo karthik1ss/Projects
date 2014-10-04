@@ -1,0 +1,25 @@
+              8	         O
+        Offside	         O
+           call	         O
+           from	         O
+            the	         O
+      assistant	         O
+        referee	         O
+             as	         O
+     Agbonlahor	     S-PER
+         strays	         O
+        offside	         O
+          after	         O
+              a	         O
+           long	         O
+           pass	         O
+           from	         O
+           Brad	     B-PER
+          Guzan	     E-PER
+              .	         O
+           Easy	         O
+       decision	         O
+             to	         O
+           make	         O
+              .	         O
+

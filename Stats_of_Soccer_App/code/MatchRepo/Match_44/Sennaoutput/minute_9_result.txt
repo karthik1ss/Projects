@@ -1,0 +1,13 @@
+              9	         O
+        Negredo	     S-PER
+         clears	         O
+           once	         O
+          again	         O
+              !	         O
+         Superb	         O
+      defending	         O
+           from	         O
+            the	         O
+        striker	         O
+              .	         O
+

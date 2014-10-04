@@ -1,0 +1,26 @@
+             78	         O
+        Delaney	     S-PER
+           goes	         O
+          close	         O
+          again	         O
+              !	         O
+             He	         O
+        charges	         O
+             to	         O
+           meet	         O
+            the	         O
+         corner	         O
+             at	         O
+            the	         O
+          front	         O
+           post	         O
+            and	         O
+             he	         O
+        glances	         O
+            the	         O
+           ball	         O
+           into	         O
+            the	         O
+    sidenetting	         O
+              .	         O
+

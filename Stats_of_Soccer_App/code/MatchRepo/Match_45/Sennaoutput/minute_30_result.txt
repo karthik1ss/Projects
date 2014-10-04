@@ -1,0 +1,25 @@
+             30	         O
+   Substitution	         O
+         Sandro	     B-PER
+          Lewis	     I-PER
+         Holtby	     I-PER
+          Lewis	     I-PER
+         Holtby	     E-PER
+          comes	         O
+             on	         O
+            for	         O
+         Sandro	    S-MISC
+              .	         O
+             Is	         O
+           that	         O
+       tactical	         O
+             or	         O
+            has	         O
+            the	         O
+      Brazilian	    S-MISC
+         picked	         O
+             up	         O
+              a	         O
+          knock	         O
+              ?	         O
+

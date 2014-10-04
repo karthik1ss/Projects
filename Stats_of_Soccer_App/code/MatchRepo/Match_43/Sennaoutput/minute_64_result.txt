@@ -1,0 +1,16 @@
+             64	         O
+           What	         O
+              a	         O
+           wise	         O
+       decision	         O
+             it	         O
+            has	         O
+         proved	         O
+             by	         O
+         Wenger	     S-PER
+             to	         O
+           play	         O
+        Walcott	     S-PER
+          today	         O
+              .	         O
+

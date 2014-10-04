@@ -1,0 +1,23 @@
+             23	         O
+       Pressure	         O
+           from	         O
+          Spurs	     S-ORG
+            now	         O
+              ,	         O
+         though	         O
+              ,	         O
+             as	         O
+         Lennon	     S-PER
+          beats	         O
+            two	         O
+      defenders	         O
+            and	         O
+          Sakho	     S-PER
+             is	         O
+         forced	         O
+             to	         O
+           make	         O
+       multiple	         O
+     clearances	         O
+              !	         O
+

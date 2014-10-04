@@ -1,0 +1,13 @@
+             88	         O
+        Chamakh	     S-PER
+             is	         O
+       replaced	         O
+             by	         O
+          Gayle	     S-PER
+      following	         O
+              a	         O
+           very	         O
+           good	         O
+        display	         O
+              .	         O
+

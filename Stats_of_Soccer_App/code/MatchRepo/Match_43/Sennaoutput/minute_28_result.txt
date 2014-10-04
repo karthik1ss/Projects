@@ -1,0 +1,27 @@
+             28	         O
+           FOUL	         O
+              !	         O
+        Negredo	     S-PER
+         slides	         O
+             in	         O
+            and	         O
+          gives	         O
+           away	         O
+              a	         O
+           free	         O
+           kick	         O
+              .	         O
+             No	         O
+        booking	         O
+            and	         O
+            his	         O
+      defensive	         O
+        efforts	         O
+           have	         O
+           been	         O
+           very	         O
+     noticeable	         O
+             so	         O
+            far	         O
+              .	         O
+

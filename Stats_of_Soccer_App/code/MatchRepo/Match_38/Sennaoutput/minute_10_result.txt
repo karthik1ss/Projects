@@ -1,0 +1,27 @@
+             10	         O
+     Kacaniklic	     S-PER
+        latches	         O
+           onto	         O
+              a	         O
+        defence	         O
+      splitting	         O
+           pass	         O
+           that	         O
+             is	         O
+           just	         O
+            too	         O
+          heavy	         O
+            for	         O
+        Dejagah	    S-MISC
+            and	         O
+            the	         O
+          loose	         O
+           ball	         O
+           runs	         O
+        through	         O
+             to	         O
+         keeper	         O
+            Tim	     B-PER
+         Howard	     E-PER
+              .	         O
+

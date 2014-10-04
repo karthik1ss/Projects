@@ -1,0 +1,25 @@
+              8	         O
+           STAT	         O
+         ATTACK	         O
+              :	         O
+            The	         O
+        Toffees	    S-MISC
+           have	         O
+          drawn	         O
+           four	         O
+             of	         O
+          their	         O
+           last	         O
+            six	         O
+          games	         O
+              ,	         O
+        keeping	         O
+           four	         O
+          clean	         O
+         sheets	         O
+              .	         O
+              (	         O
+            BBC	     B-ORG
+          Sport	     E-ORG
+              )	         O
+

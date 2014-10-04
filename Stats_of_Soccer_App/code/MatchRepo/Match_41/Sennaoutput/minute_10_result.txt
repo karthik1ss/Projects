@@ -1,0 +1,27 @@
+             10	         O
+     Albrighton	     S-PER
+          finds	         O
+        himself	         O
+             in	         O
+              a	         O
+        central	         O
+       position	         O
+            and	         O
+             he	         O
+           gets	         O
+              a	         O
+           shot	         O
+           away	         O
+          early	         O
+              ,	         O
+            but	         O
+          again	         O
+             De	     B-PER
+            Gea	     E-PER
+           gets	         O
+           down	         O
+             to	         O
+           keep	         O
+             it	         O
+           out.	         O
+

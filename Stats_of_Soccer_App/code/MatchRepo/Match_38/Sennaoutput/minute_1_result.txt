@@ -1,0 +1,13 @@
+              1	         O
+             We	         O
+            are	         O
+       underway	         O
+           with	         O
+         Fulham	     S-ORG
+        kicking	         O
+           from	         O
+           left	         O
+             to	         O
+          right	         O
+              !	         O
+

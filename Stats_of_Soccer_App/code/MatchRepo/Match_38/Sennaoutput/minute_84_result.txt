@@ -1,0 +1,24 @@
+             84	         O
+        BLOCKED	         O
+              !	         O
+          Osman	     S-PER
+           lets	         O
+            fly	         O
+           from	         O
+       distance	         O
+            and	         O
+         Parker	     S-PER
+         throws	         O
+        himself	         O
+             in	         O
+          front	         O
+             of	         O
+            the	         O
+           ball	         O
+              .	         O
+         Corner	         O
+             to	         O
+            the	         O
+        Toffees	     S-LOC
+            ...	         O
+

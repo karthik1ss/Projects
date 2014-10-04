@@ -1,0 +1,27 @@
+             61	         O
+       Zabaleta	     S-PER
+            now	         O
+          links	         O
+             up	         O
+           with	         O
+     substitute	         O
+          Jesus	     B-PER
+          Navas	     E-PER
+           down	         O
+            the	         O
+     right-hand	         O
+           side	         O
+              ,	         O
+       although	         O
+            the	         O
+           move	         O
+             is	         O
+     eventually	         O
+         broken	         O
+           down	         O
+             by	         O
+              a	         O
+         Ramsey	     S-LOC
+      clearance	         O
+              .	         O
+

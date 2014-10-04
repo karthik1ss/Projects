@@ -1,0 +1,17 @@
+             56	         O
+        Classic	         O
+    centre-back	         O
+           play	         O
+           from	         O
+         Dawson	     S-PER
+              ,	         O
+            who	         O
+       launches	         O
+             it	         O
+        upfield	         O
+            ...	         O
+       straight	         O
+             to	         O
+          Sakho	     S-PER
+              .	         O
+

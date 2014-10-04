@@ -1,0 +1,10 @@
+             20	         O
+           Goal	         O
+          Wayne	     B-PER
+         Rooney	     E-PER
+
+             20	         O
+         Assist	         O
+         Shinji	     B-PER
+         Kagawa	     E-PER
+

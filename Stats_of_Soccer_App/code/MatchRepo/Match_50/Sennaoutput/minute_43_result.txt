@@ -1,0 +1,15 @@
+             43	         O
+         Yellow	         O
+           card	         O
+            for	         O
+        Chamakh	     S-PER
+             as	         O
+             he	         O
+       produces	         O
+              a	         O
+           wild	         O
+          lunge	         O
+             on	         O
+         Essien	     S-LOC
+              .	         O
+

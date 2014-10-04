@@ -1,0 +1,30 @@
+             45	         O
+        Penalty	         O
+           Goal	         O
+          Wayne	     B-PER
+         Rooney	     E-PER
+
+             45	         O
+             +1	         O
+           Into	         O
+            the	         O
+          first	         O
+             of	         O
+            two	         O
+     additional	         O
+        minutes	         O
+             at	         O
+            Old	     B-LOC
+       Trafford	     E-LOC
+              .	         O
+
+             45	         O
+             +2	         O
+      HALF-TIME	         O
+              :	         O
+     Manchester	     B-ORG
+         United	     E-ORG
+            2-1	         O
+          Aston	     B-ORG
+          Villa	     E-ORG
+

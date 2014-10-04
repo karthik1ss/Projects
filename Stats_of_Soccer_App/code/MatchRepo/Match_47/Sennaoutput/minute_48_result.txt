@@ -1,0 +1,27 @@
+             48	         O
+         Rooney	     S-PER
+             is	         O
+        knocked	         O
+           over	         O
+          close	         O
+             to	         O
+            the	         O
+           area	         O
+             on	         O
+            the	         O
+          right	         O
+           wing	         O
+            and	         O
+         United	     S-ORG
+           have	         O
+              a	         O
+          great	         O
+       position	         O
+             to	         O
+           whip	         O
+              a	         O
+      free-kick	         O
+             in	         O
+           from	         O
+              .	         O
+

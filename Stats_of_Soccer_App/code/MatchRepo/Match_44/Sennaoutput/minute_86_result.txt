@@ -1,0 +1,24 @@
+             86	         O
+           Just	         O
+              a	         O
+            few	         O
+           more	         O
+        minutes	         O
+            for	         O
+        Arsenal	     S-ORG
+           fans	         O
+             to	         O
+         suffer	         O
+           here	         O
+              .	         O
+             It	         O
+            has	         O
+           been	         O
+              a	         O
+           poor	         O
+        display	         O
+           from	         O
+            the	         O
+        Gunners	         O
+              .	         O
+

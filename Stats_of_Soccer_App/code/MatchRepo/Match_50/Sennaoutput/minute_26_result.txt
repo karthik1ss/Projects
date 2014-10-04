@@ -1,0 +1,21 @@
+             26	         O
+           Here	         O
+          comes	         O
+            the	         O
+          match	         O
+             's	         O
+          first	         O
+         change	         O
+             as	         O
+            the	         O
+        injured	         O
+       Dikgacoi	    S-MISC
+          limps	         O
+            off	         O
+            and	         O
+             is	         O
+       replaced	         O
+             by	         O
+        O'Keefe	     S-PER
+              .	         O
+

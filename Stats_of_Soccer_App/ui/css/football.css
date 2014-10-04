@@ -1,0 +1,328 @@
+#main {
+	width: 1355px;
+	height: 730px;
+	background-color: green;
+	background-image: url('../images/background.jpg');
+	background-size: 1355px 730px;
+	border: 1px solid black;
+}
+#minute {
+	font-size: 35px;
+	width: 75px;
+	margin-left: 110px;	
+	color:  white;
+	background-color: green;
+}
+#eventType {
+	font-size: 25px;
+	font-weight:bold;
+	font-style: italic;
+	width: 200px;
+	margin-left: 20px;	
+	margin-top: 5px;
+	text-align: center;
+	color:  white;
+	float: left;
+}
+#team1name {
+	border: 1px solid 800000;
+	font-size: 30px;
+	width: 365px;
+	margin-left: 84px;	
+	color: 800000;
+	margin-top: 3px;
+	border-radius: 5px;
+	-moz-box-shadow: -5px -5px 5px black;
+	-webkit-box-shadow: -5px -5px 5px black;
+	box-shadow: -5px -5px 5px black;
+	background-image: -webkit-gradient(
+	linear,
+	left bottom,
+	left top,
+	color-stop(0, #FACDCD),
+	color-stop(1, #F70D0D)
+	);
+	background-image: -o-linear-gradient(top, #FACDCD 0%, #F70D0D 100%);
+	background-image: -moz-linear-gradient(top, #FACDCD 0%, #F70D0D 100%);
+	background-image: -webkit-linear-gradient(top, #FACDCD 0%, #F70D0D 100%);
+	background-image: -ms-linear-gradient(top, #FACDCD 0%, #F70D0D 100%);
+	background-image: linear-gradient(to top, #FACDCD 0%, #F70D0D 100%);
+	background-color: red;
+}
+
+#team2name {
+	border: 1px solid 000080;
+	font-size: 30px;
+	width: 270px;
+	margin-left: 0px;	
+	color: 000080;
+	margin-top: 3px;
+	border-radius: 5px;
+	-moz-box-shadow: -5px -5px 5px black;
+	-webkit-box-shadow: -5px -5px 5px black;
+	box-shadow: -5px -5px 5px black;
+	background-image: -webkit-gradient(
+	linear,
+	left top,
+	left bottom,
+	color-stop(0, #115DBF),
+	color-stop(1, #F5F7FA)
+	);
+	background-image: -o-linear-gradient(bottom, #115DBF 0%, #F5F7FA 100%);
+	background-image: -moz-linear-gradient(bottom, #115DBF 0%, #F5F7FA 100%);
+	background-image: -webkit-linear-gradient(bottom, #115DBF 0%, #F5F7FA 100%);
+	background-image: -ms-linear-gradient(bottom, #115DBF 0%, #F5F7FA 100%);
+	background-image: linear-gradient(to bottom, #115DBF 0%, #F5F7FA 100%);
+}
+
+#team1goals {
+	border: 1px solid 800000;
+	font-size: 35px;
+	width: 40px;
+	margin-left: 0px;
+	color: 800000;
+	border-radius: 5px;
+	-moz-box-shadow: -5px -5px 5px black;
+	-webkit-box-shadow: -5px -5px 5px black;
+	box-shadow: -5px -5px 5px black;
+	background-image: -webkit-gradient(
+	linear,
+	left bottom,
+	left top,
+	color-stop(0, #FACDCD),
+	color-stop(1, #F70D0D)
+	);
+	background-image: -o-linear-gradient(top, #FACDCD 0%, #F70D0D 100%);
+	background-image: -moz-linear-gradient(top, #FACDCD 0%, #F70D0D 100%);
+	background-image: -webkit-linear-gradient(top, #FACDCD 0%, #F70D0D 100%);
+	background-image: -ms-linear-gradient(top, #FACDCD 0%, #F70D0D 100%);
+	background-image: linear-gradient(to top, #FACDCD 0%, #F70D0D 100%);
+	background-color: red;
+}
+
+#team2goals {
+	border: 1px solid 000080;
+	font-size: 35px;
+	width: 40px;
+	margin-left: 0px;
+	color: 000080;	
+	border-radius: 5px;
+	-moz-box-shadow: -5px -5px 5px black;
+	-webkit-box-shadow: -5px -5px 5px black;
+	box-shadow: -5px -5px 5px black;
+	background-image: -webkit-gradient(
+	linear,
+	left top,
+	left bottom,
+	color-stop(0, #115DBF),
+	color-stop(1, #F5F7FA)
+	);
+	background-image: -o-linear-gradient(bottom, #115DBF 0%, #F5F7FA 100%);
+	background-image: -moz-linear-gradient(bottom, #115DBF 0%, #F5F7FA 100%);
+	background-image: -webkit-linear-gradient(bottom, #115DBF 0%, #F5F7FA 100%);
+	background-image: -ms-linear-gradient(bottom, #115DBF 0%, #F5F7FA 100%);
+	background-image: linear-gradient(to bottom, #115DBF 0%, #F5F7FA 100%);
+}
+
+.forward {
+	width: 100px; 
+	height: 650px;
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.midfielder {
+	width: 100px;
+	height: 650px;
+}
+
+.defender{
+	width: 100px; 
+	height: 650px;
+}
+
+.goalie{
+	width: 100px;
+	height: 650px;
+}
+
+.alignment{
+    height: 650px;
+	width: 90px;
+    border: 1px solid line;
+}
+
+.team1 {
+	width: 50%;
+	float: left;
+	height: 650px;
+	margin-left: 0px;
+	display: table;
+}
+
+.team2 {
+	width: 49%;
+	float: left;
+	height: 650px;
+	display: table;
+}
+
+.team1 .forward {
+	margin-right: 40px;
+	float: right;
+}
+
+.team2 .forward {
+	margin-left: 40px;
+	float: left;
+}
+
+.team1 .midfielder {
+	margin-right: 30px;
+	float: right;
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.team2 .midfielder {
+	margin-left: 30px;
+	float: left;
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.team1 .defender {
+	margin-right: 50px;
+	float: right;
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.team2 .defender {
+	margin-left: 50px;
+	float: left;
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.team1 .goalie {
+	margin-right: 40px;
+	float: right;
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.team2 .goalie {
+	margin-left: 40px;
+	float: left;
+	display: table-cell;
+	vertical-align: middle;
+}
+
+
+.playerteam1 {
+	border: 1px solid 800000;
+	float: left;
+	background-color: white;
+	text-align: center;
+	width: 100px;
+	height: 80px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	color: 800000;
+	-moz-box-shadow: -5px -5px 5px black;
+	-webkit-box-shadow: -5px -5px 5px black;
+	box-shadow: -5px -5px 5px black;
+	background-image: -webkit-gradient(
+	linear,
+	left bottom,
+	left top,
+	color-stop(0, #FACDCD),
+	color-stop(1, #F70D0D)
+	);
+	background-image: -o-linear-gradient(top, #FACDCD 0%, #F70D0D 100%);
+	background-image: -moz-linear-gradient(top, #FACDCD 0%, #F70D0D 100%);
+	background-image: -webkit-linear-gradient(top, #FACDCD 0%, #F70D0D 100%);
+	background-image: -ms-linear-gradient(top, #FACDCD 0%, #F70D0D 100%);
+	background-image: linear-gradient(to top, #FACDCD 0%, #F70D0D 100%);
+	border-radius:15px;
+}
+.playerteam2 {
+	border: 1px solid 000080;
+	float: left;
+	background-color: white;
+	text-align: center;
+	width: 100px;
+	height: 80px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	color: 000080;
+	-moz-box-shadow: -5px -5px 5px black;
+	-webkit-box-shadow: -5px -5px 5px black;
+	box-shadow: -5px -5px 5px black;
+	background-image: -webkit-gradient(
+	linear,
+	left top,
+	left bottom,
+	color-stop(0, #115DBF),
+	color-stop(1, #F5F7FA)
+	);
+	background-image: -o-linear-gradient(bottom, #115DBF 0%, #F5F7FA 100%);
+	background-image: -moz-linear-gradient(bottom, #115DBF 0%, #F5F7FA 100%);
+	background-image: -webkit-linear-gradient(bottom, #115DBF 0%, #F5F7FA 100%);
+	background-image: -ms-linear-gradient(bottom, #115DBF 0%, #F5F7FA 100%);
+	background-image: linear-gradient(to bottom, #115DBF 0%, #F5F7FA 100%);
+	border-radius:15px;
+}
+
+.playerhasball {
+	border: 1px solid 006400;
+	float: left;
+	text-align: center;
+	width: 100px;
+	height: 80px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	color: 006400;
+	-moz-box-shadow: -5px -5px 5px black;
+	-webkit-box-shadow: -5px -5px 5px black;
+	box-shadow: -5px -5px 5px black;
+	background-image: -webkit-gradient(
+	linear,
+	left top,
+	left bottom,
+	color-stop(0, #F7FA2A),
+	color-stop(1, #FAFAF7)
+	);
+	background-image: -o-linear-gradient(bottom, #F7FA2A 0%, #FAFAF7 100%);
+	background-image: -moz-linear-gradient(bottom, #F7FA2A 0%, #FAFAF7 100%);
+	background-image: -webkit-linear-gradient(bottom, #F7FA2A 0%, #FAFAF7 100%);
+	background-image: -ms-linear-gradient(bottom, #F7FA2A 0%, #FAFAF7 100%);
+	background-image: linear-gradient(to bottom, #F7FA2A 0%, #FAFAF7 100%);
+	background-color: yellow;
+	border-radius:15px;
+}
+
+.box {
+	float: left;
+	text-align: center;
+	font-weight: bold;
+}
+
+li {
+	list-style-type: none;
+}
+
+.playercontent {
+	margin-top: 5px;
+	font-size: 11px;
+	line-height: 13px;
+	vertical-align: middle;
+	font-weight: bold;
+}
+
+.header {
+	font-size: 13px;
+	border-bottom: 1px solid;
+	font-weight: bold;
+}

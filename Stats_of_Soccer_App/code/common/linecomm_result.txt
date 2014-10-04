@@ -1,0 +1,53 @@
+             13	        CD	      B-NP	         O	              -	(S1(NP*
+           Goal	        NN	      E-NP	         O	              -	*
+         Ashley	       NNP	      B-NP	     B-PER	              -	*
+       Westwood	       NNP	      E-NP	     E-PER	              -	*))
+
+           GOAL	        NN	      S-NP	         O	              -	         O	         O	(S1(X(NP(NP*
+              !	         .	         O	         O	              -	         O	         O	*
+            Man	       NNP	         O	     B-ORG	              -	         O	         O	*
+            Utd	       NNP	      B-NP	     E-ORG	              -	         O	         O	*
+            0-1	        CD	      I-NP	         O	              -	         O	         O	*
+          ASTON	       NNP	      I-NP	     B-ORG	              -	         O	         O	*
+          VILLA	       NNP	      E-NP	     E-ORG	              -	         O	         O	*)
+              -	         :	         O	         O	              -	         O	         O	*
+       WESTWOOD	       NNP	      S-NP	     S-ORG	              -	         O	         O	(NP*)
+              !	         .	         O	         O	              -	         O	         O	*
+              !	        ``	         O	         O	              -	         O	         O	*
+           What	        WP	      S-NP	         O	              -	         O	         O	(SBAR(WHNP*)
+              a	        DT	      B-NP	         O	              -	         O	         O	*
+      free-kick	        NN	      E-NP	         O	              -	         O	         O	(NX*)
+              ,	         ,	         O	         O	              -	         O	         O	*
+            and	        CC	         O	         O	              -	         O	         O	*
+           what	        WP	      S-NP	         O	              -	         O	         O	(SBAR(WHNP*)
+              a	        DT	      B-NP	         O	              -	         O	         O	(NP(NP*
+           goal	        NN	      E-NP	         O	              -	         O	         O	*)
+              !	         .	         O	         O	              -	         O	         O	*
+      Fantastic	        JJ	      B-NP	         O	              -	         O	         O	(NP(NP(NP*
+         strike	        NN	      E-NP	         O	              -	         O	         O	*)
+           from	        IN	      S-PP	         O	              -	         O	         O	(PP*
+            the	        DT	      B-NP	         O	              -	      B-A0	         O	(NP*
+     midfielder	        NN	      E-NP	         O	              -	      E-A0	         O	*)))
+              ,	         ,	         O	         O	              -	         O	         O	*
+            who	        WP	      S-NP	         O	              -	    S-R-A0	         O	(SBAR(WHNP*)
+          lifts	       VBZ	      S-VP	         O	          lifts	       S-V	         O	(S(VP*
+            one	        CD	      S-NP	         O	              -	      S-A1	         O	(NP*)
+           over	        IN	      S-PP	         O	              -	  B-AM-DIR	         O	(PP(PP*
+            the	        DT	      B-NP	         O	              -	  I-AM-DIR	         O	(NP*
+           wall	        NN	      E-NP	         O	              -	  I-AM-DIR	         O	*))
+            and	        CC	      S-PP	         O	              -	  I-AM-DIR	         O	*
+           into	        IN	      S-PP	         O	              -	  I-AM-DIR	         O	(PP*
+            the	        DT	      B-NP	         O	              -	  I-AM-DIR	         O	(NP*
+            top	        JJ	      I-NP	         O	              -	  I-AM-DIR	         O	*
+         corner	        NN	      E-NP	         O	              -	  E-AM-DIR	         O	*))))))
+              .	         .	         O	         O	              -	         O	         O	*
+          Great	        JJ	      B-NP	         O	              -	         O	      B-A1	(SBAR*
+          stuff	        NN	      E-NP	         O	              -	         O	      E-A1	(S(VP*
+              !	         .	         O	         O	              -	         O	         O	*
+         United	       VBN	      S-VP	     S-ORG	         United	         O	       S-V	*
+             up	        RP	     S-PRT	         O	              -	         O	  S-AM-DIR	(ADVP*
+        against	        IN	      S-PP	         O	              -	         O	  B-AM-DIR	(PP*
+             it	       PRP	      S-NP	         O	              -	         O	  E-AM-DIR	(NP*))
+            now	        RB	    S-ADVP	         O	              -	         O	  S-AM-TMP	(ADVP*))))))))))
+              .	         .	         O	         O	              -	         O	         O	*))
+

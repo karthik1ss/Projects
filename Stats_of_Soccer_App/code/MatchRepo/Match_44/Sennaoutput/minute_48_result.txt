@@ -1,0 +1,15 @@
+             48	         O
+            The	         O
+      Argentine	    S-MISC
+             is	         O
+      applauded	         O
+             as	         O
+             he	         O
+          walks	         O
+            off	         O
+            the	         O
+          field	         O
+            for	         O
+      treatment	         O
+              .	         O
+

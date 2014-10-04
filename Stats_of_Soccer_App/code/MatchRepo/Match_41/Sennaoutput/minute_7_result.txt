@@ -1,0 +1,23 @@
+              7	         O
+            Not	         O
+            the	         O
+           best	         O
+      free-kick	         O
+       delivery	         O
+           from	         O
+       Westwood	     S-ORG
+              ,	         O
+             as	         O
+             it	         O
+             is	         O
+         headed	         O
+           away	         O
+             by	         O
+           Phil	     B-PER
+          Jones	     E-PER
+             at	         O
+            the	         O
+          first	         O
+        attempt	         O
+              .	         O
+

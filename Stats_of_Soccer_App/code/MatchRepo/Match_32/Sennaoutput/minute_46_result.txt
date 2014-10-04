@@ -1,0 +1,25 @@
+             46	         O
+       UNDERWAY	         O
+             in	         O
+            the	         O
+         second	         O
+           half	         O
+             at	         O
+            Old	     B-LOC
+       Trafford	     E-LOC
+              ,	         O
+         United	     S-LOC
+            get	         O
+             us	         O
+          going	         O
+      attacking	         O
+           from	         O
+          right	         O
+             to	         O
+           left	         O
+             in	         O
+           this	         O
+         second	         O
+           half	         O
+              .	         O
+

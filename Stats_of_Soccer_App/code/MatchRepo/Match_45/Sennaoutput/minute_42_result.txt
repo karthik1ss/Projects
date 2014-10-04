@@ -1,0 +1,17 @@
+             42	         O
+         BOOKED	         O
+              !	         O
+         Walker	     S-PER
+        commits	         O
+        another	         O
+           foul	         O
+            and	         O
+             is	         O
+          given	         O
+              a	         O
+           just	         O
+         yellow	         O
+           card	         O
+            for	         O
+            it.	         O
+

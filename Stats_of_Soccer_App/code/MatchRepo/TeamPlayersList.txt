@@ -1,0 +1,43 @@
+Man Utd.
+Players,
+David de Gea,Goalkeeper
+Rafael,Defender
+Phil Jones,Defender
+Nemanja Vidic,Defender
+Alexander Büttner,Defender
+Ashley Young,Midfielder
+Darren Fletcher,Midfielder
+Marouane Fellaini,Midfielder
+Juan Mata,Midfielder
+Wayne Rooney,Striker
+Shinji Kagawa,Midfielder
+Substitutes,
+Ben Amos,Goalkeeper
+Ryan Giggs,Midfielder
+Michael Carrick,Midfielder
+Nani,Midfielder
+Adnan Januzaj,Midfielder
+Javier 'Chicharito' Hernandez,Striker
+Danny Welbeck,Striker
+
+Aston Villa
+Players,
+Bradley Guzan,Goalkeeper
+Ron Vlaar,Defender
+Ciaran Clark,Defender
+Ryan Bertrand,Defender
+Leandro Bacuna,Defender
+Marc Albrighton,Midfielder
+Ashley Westwood,Midfielder
+Fabian Delph,Midfielder
+Andreas Weimann,Striker
+Gabriel Agbonlahor,Striker
+C. Benteke,Striker
+Substitutes,
+Jed Steer,Goalkeeper
+Joseph Bennett,Defender
+Matthew Lowton,Defender
+Yacouba Sylla,Striker
+Alexandar Tonev,Midfielder
+Grant Holt,Striker
+Callum Robinson,Midfielder

@@ -1,0 +1,12 @@
+             59	         O
+         Martin	     B-PER
+       Atkinson	     E-PER
+           does	         O
+            not	         O
+           give	         O
+            the	         O
+      spot-kick	         O
+              ,	         O
+        however	         O
+              .	         O
+

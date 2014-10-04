@@ -1,0 +1,23 @@
+             31	         O
+        Chamakh	     S-PER
+            has	         O
+         looked	         O
+           like	         O
+              a	         O
+        changed	         O
+            man	         O
+             in	         O
+            the	         O
+           last	         O
+            few	         O
+          weeks	         O
+              ,	         O
+   particularly	         O
+          since	         O
+          Pulis	     S-PER
+        arrived	         O
+             at	         O
+            the	         O
+           club	         O
+              .	         O
+

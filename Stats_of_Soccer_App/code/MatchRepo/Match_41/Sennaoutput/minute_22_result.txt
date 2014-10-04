@@ -1,0 +1,25 @@
+             22	         O
+         Rooney	     S-PER
+             is	         O
+        getting	         O
+        annoyed	         O
+           with	         O
+            the	         O
+        referee	         O
+        already	         O
+              .	         O
+             He	         O
+            has	         O
+          taken	         O
+              a	         O
+            few	         O
+          hefty	         O
+     challenges	         O
+              ,	         O
+            but	         O
+             he	         O
+             is	         O
+        getting	         O
+           much	         O
+              .	         O
+

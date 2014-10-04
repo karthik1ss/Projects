@@ -1,0 +1,22 @@
+             20	         O
+           STAT	         O
+         ATTACK	         O
+              :	         O
+           That	         O
+             is	         O
+          Osman	     S-PER
+             's	         O
+           41st	         O
+        Premier	    B-MISC
+         League	    E-MISC
+           goal	         O
+             in	         O
+            his	         O
+          300th	         O
+         league	         O
+     appearance	         O
+            for	         O
+            the	         O
+        Toffees	    S-MISC
+              .	         O
+

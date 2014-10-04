@@ -1,0 +1,27 @@
+             25	         O
+         Kagawa	     S-PER
+           wins	         O
+              a	         O
+      free-kick	         O
+          after	         O
+              a	         O
+           foul	         O
+           from	         O
+     Albrighton	     B-LOC
+              .	     I-LOC
+            The	     I-LOC
+          Japan	     E-LOC
+  international	         O
+         picked	         O
+             up	         O
+            his	         O
+          first	         O
+         assist	         O
+             of	         O
+            the	         O
+         season	         O
+           just	         O
+        moments	         O
+            ago	         O
+              .	         O
+

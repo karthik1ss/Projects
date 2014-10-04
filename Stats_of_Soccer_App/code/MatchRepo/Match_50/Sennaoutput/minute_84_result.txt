@@ -1,0 +1,22 @@
+             84	         O
+            And	         O
+        another	         O
+             as	         O
+          Demba	     B-PER
+             Ba	     E-PER
+          comes	         O
+             on	         O
+            for	         O
+            the	         O
+         scorer	         O
+             of	         O
+            the	         O
+          match	         O
+             's	         O
+          first	         O
+           goal	         O
+              ;	         O
+       Fernando	     B-PER
+         Torres	     E-PER
+              .	         O
+

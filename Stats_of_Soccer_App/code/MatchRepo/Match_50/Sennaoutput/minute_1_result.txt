@@ -1,0 +1,13 @@
+              1	         O
+          Right	         O
+              ,	         O
+         Palace	     S-PER
+            get	         O
+            the	         O
+         action	         O
+        started	         O
+             at	         O
+       Stamford	     B-LOC
+         Bridge	     E-LOC
+              .	         O
+

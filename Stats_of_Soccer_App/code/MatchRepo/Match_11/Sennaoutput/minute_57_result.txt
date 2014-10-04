@@ -1,0 +1,5 @@
+             57	         O
+           Goal	         O
+           Juan	     B-PER
+           Mata	     E-PER
+

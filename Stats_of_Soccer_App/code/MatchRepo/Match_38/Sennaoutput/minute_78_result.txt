@@ -1,0 +1,9 @@
+             78	         O
+   Substitution	         O
+            Out	         O
+        Giorgos	     B-PER
+     Karagounis	     I-PER
+             In	     I-PER
+         Darren	     I-PER
+           Bent	     E-PER
+

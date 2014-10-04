@@ -1,0 +1,10 @@
+             86	         O
+   Substitution	         O
+            Out	         O
+          Karim	     B-PER
+             El	     I-PER
+         Ahmadi	     I-PER
+             In	     I-PER
+        Leandro	     I-PER
+         Bacuna	     E-PER
+

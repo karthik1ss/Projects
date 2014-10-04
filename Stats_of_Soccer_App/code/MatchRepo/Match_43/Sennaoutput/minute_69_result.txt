@@ -1,0 +1,19 @@
+             69	         O
+            The	         O
+           home	         O
+           side	         O
+           look	         O
+           more	         O
+           than	         O
+      satisfied	         O
+             to	         O
+            sit	         O
+           back	         O
+            and	         O
+            let	         O
+            the	         O
+        Gunners	     S-ORG
+           come	         O
+             at	         O
+          them.	         O
+

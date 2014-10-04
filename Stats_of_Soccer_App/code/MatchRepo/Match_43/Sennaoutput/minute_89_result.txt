@@ -1,0 +1,26 @@
+             89	         O
+           Poor	         O
+       Bendtner	    S-MISC
+              .	         O
+             He	         O
+         thinks	         O
+             he	         O
+             's	         O
+          given	         O
+        Arsenal	     S-ORG
+          their	         O
+          third	         O
+             as	         O
+             he	         O
+          heads	         O
+           home	         O
+              a	         O
+    consolation	         O
+              .	         O
+            But	         O
+             it	         O
+             is	         O
+          given	         O
+        offside	         O
+            ...	         O
+

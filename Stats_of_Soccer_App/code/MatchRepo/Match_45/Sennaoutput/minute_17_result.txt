@@ -1,0 +1,21 @@
+             17	         O
+          Third	         O
+         corner	         O
+             in	         O
+              a	         O
+            row	         O
+              !	         O
+         Lloris	     S-PER
+          makes	         O
+              a	         O
+           save	         O
+           from	         O
+              a	         O
+       Sterling	    S-MISC
+         effort	         O
+              -	         O
+             no	         O
+            pun	         O
+       intended	         O
+              .	         O
+

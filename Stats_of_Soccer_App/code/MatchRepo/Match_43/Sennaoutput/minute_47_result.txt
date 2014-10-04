@@ -1,0 +1,14 @@
+             47	         O
+            Bad	         O
+           news	         O
+            ...	         O
+         Aguero	     S-PER
+             is	         O
+           down	         O
+        injured	         O
+            for	         O
+            the	         O
+           home	         O
+           side	         O
+              .	         O
+

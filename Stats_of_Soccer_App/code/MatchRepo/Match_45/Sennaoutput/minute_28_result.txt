@@ -1,0 +1,21 @@
+             28	         O
+       CROSSBAR	     S-ORG
+              !	         O
+       Coutinho	     S-PER
+           hits	         O
+            the	         O
+            bar	         O
+              -	         O
+      Liverpool	     S-ORG
+            are	         O
+          being	         O
+     relentless	         O
+             in	         O
+          their	         O
+        pursuit	         O
+             of	         O
+              a	         O
+         second	         O
+           here	         O
+              .	         O
+

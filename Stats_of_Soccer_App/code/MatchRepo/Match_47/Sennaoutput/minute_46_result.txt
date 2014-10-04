@@ -1,0 +1,13 @@
+             46	         O
+             We	         O
+            are	         O
+           back	         O
+       underway	         O
+             as	         O
+         United	     S-ORG
+          start	         O
+            the	         O
+         second	         O
+           half	         O
+              .	         O
+

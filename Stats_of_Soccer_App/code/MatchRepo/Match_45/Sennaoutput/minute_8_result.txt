@@ -1,0 +1,10 @@
+              8	         O
+             An	     S-PER
+           even	         O
+        contest	         O
+             so	         O
+            far	         O
+              ,	         O
+    nonetheless	         O
+              .	         O
+

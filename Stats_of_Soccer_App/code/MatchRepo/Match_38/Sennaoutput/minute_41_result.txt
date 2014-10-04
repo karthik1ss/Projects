@@ -1,0 +1,22 @@
+             41	         O
+           Talk	         O
+          about	         O
+          backs	         O
+             to	         O
+            the	         O
+           wall	         O
+              ,	         O
+            the	         O
+          hosts	         O
+            win	         O
+              a	         O
+         corner	         O
+            and	         O
+           even	         O
+        Dimitar	     B-PER
+       Berbatov	     E-PER
+             is	         O
+           back	         O
+      defending	         O
+              !	         O
+

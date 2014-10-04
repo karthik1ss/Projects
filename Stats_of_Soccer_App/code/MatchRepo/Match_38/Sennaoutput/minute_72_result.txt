@@ -1,0 +1,25 @@
+             72	         O
+           STAT	         O
+         ATTACK	         O
+              :	         O
+              9	         O
+              -	         O
+        Dimitar	     B-PER
+       Berbatov	     E-PER
+            now	         O
+            has	         O
+           nine	         O
+        Premier	    B-MISC
+         League	    E-MISC
+        penalty	         O
+          goals	         O
+           from	         O
+           nine	         O
+       attempts	         O
+              .	         O
+       Reliable	    S-MISC
+              .	         O
+              (	         O
+        OptaJoe	     S-LOC
+              )	         O
+

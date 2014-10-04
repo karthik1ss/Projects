@@ -1,0 +1,22 @@
+             19	         O
+             An	         O
+         assist	         O
+            and	         O
+              a	         O
+           good	         O
+          first	         O
+             20	         O
+        minutes	         O
+             at	         O
+            the	         O
+           back	         O
+            for	         O
+     Demichelis	     S-PER
+              .	         O
+             It	         O
+          seems	         O
+             to	         O
+             be	         O
+            his	         O
+           day.	         O
+

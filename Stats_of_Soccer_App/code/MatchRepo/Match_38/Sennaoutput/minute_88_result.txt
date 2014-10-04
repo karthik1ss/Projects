@@ -1,0 +1,22 @@
+             88	         O
+            And	         O
+          there	         O
+             is	         O
+           also	         O
+              a	         O
+           case	         O
+             of	         O
+          Barry	     S-PER
+          being	         O
+             in	         O
+             an	         O
+        offside	         O
+       position	         O
+           when	         O
+             he	         O
+         became	         O
+         active	         O
+             in	         O
+           play	         O
+              !	         O
+

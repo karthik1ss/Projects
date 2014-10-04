@@ -1,0 +1,11 @@
+             37	         O
+      Meanwhile	         O
+              ,	         O
+         Wenger	     S-PER
+            has	         O
+            put	         O
+            his	         O
+           coat	         O
+             on	         O
+            ...	         O
+

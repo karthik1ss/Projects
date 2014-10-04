@@ -1,0 +1,25 @@
+             77	         O
+         Fulham	     S-ORG
+           boss	         O
+           Rene	     B-PER
+    Meulensteen	     E-PER
+             is	         O
+       bringing	         O
+             on	         O
+         Darren	     B-PER
+           Bent	     E-PER
+              .	         O
+             Is	         O
+           this	         O
+          where	         O
+            the	         O
+       momentum	         O
+         shifts	         O
+            yet	         O
+          again	         O
+             in	         O
+           this	         O
+     intrigiung	         O
+      encounter	         O
+              ?	         O
+

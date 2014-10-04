@@ -1,0 +1,47 @@
+             44	        CD	      B-NP	         O	              -	(S1(NP(NP*
+         Yellow	       NNP	      I-NP	         O	              -	*
+           Card	       NNP	      I-NP	         O	              -	*)
+        Leandro	       NNP	      I-NP	     B-PER	              -	(NP*
+         Bacuna	       NNP	      E-NP	     E-PER	              -	*)))
+
+           GOAL	        NN	      S-NP	         O	              -	         O	(S1(S(NP(NP*)
+              !	         .	         O	         O	              -	         O	*
+            Man	       NNP	         O	     B-ORG	              -	         O	(S(VP*
+            Utd	       NNP	      B-NP	     E-ORG	              -	         O	*
+            2-1	        CD	      I-NP	         O	              -	         O	(ADVP*
+          Aston	       NNP	      I-NP	     B-ORG	              -	         O	(NP(NP*
+          Villa	       NNP	      E-NP	     E-ORG	              -	         O	*)
+              -	         :	         O	         O	              -	         O	*
+         ROONEY	       NNP	      S-NP	     S-PER	              -	         O	(NP*))))))
+              !	         .	         O	         O	              -	         O	*
+              !	        ''	         O	         O	              -	         O	*
+           That	        DT	      S-NP	         O	              -	         O	(NP*)
+             's	       VBZ	      S-VP	         O	              -	         O	(VP*
+              a	        DT	      B-NP	         O	              -	         O	(NP(NP*
+      fantastic	        JJ	      I-NP	         O	              -	         O	*
+        penalty	        NN	      E-NP	         O	              -	         O	*)
+              ,	         ,	         O	         O	              -	         O	*
+          fired	       VBD	      S-VP	         O	          fired	       S-V	(VP*
+           with	        IN	      S-PP	         O	              -	      B-A1	(PP*
+          power	        NN	      S-NP	         O	              -	      E-A1	(NP*))
+             to	        TO	      S-PP	         O	              -	      B-A4	(PP*
+          Guzan	       NNP	      S-NP	     S-PER	              -	      I-A4	(NP(NP*
+             's	       POS	      S-NP	         O	              -	      I-A4	*)
+           left	       VBN	      S-VP	         O	              -	      I-A4	(VP*
+              .	         .	         O	         O	              -	      I-A4	*
+           17th	        JJ	      B-NP	         O	              -	      I-A4	(NP(NP(NP*
+           goal	        NN	      E-NP	         O	              -	      I-A4	*)
+             of	        IN	      S-PP	         O	              -	      I-A4	(PP*
+            the	        DT	      B-NP	         O	              -	      I-A4	(NP*
+         season	        NN	      E-NP	         O	              -	      E-A4	*)))
+              ,	         ,	         O	         O	              -	         O	*
+            his	      PRP$	      B-NP	         O	              -	         O	(NP(NP*
+         second	        NN	      E-NP	         O	              -	         O	*)
+             of	        IN	      S-PP	         O	              -	         O	(PP*
+            the	        DT	      B-NP	         O	              -	         O	(NP*
+          game.	        FW	      I-NP	         O	              -	         O	*
+         United	       NNP	      E-NP	     S-ORG	              -	         O	*))
+           with	        IN	      S-PP	         O	              -	         O	(PP*
+            the	        DT	      B-NP	         O	              -	         O	(NP*
+           lead	        NN	      E-NP	         O	              -	         O	*))))))))))
+              .	         .	         O	         O	              -	         O	*))

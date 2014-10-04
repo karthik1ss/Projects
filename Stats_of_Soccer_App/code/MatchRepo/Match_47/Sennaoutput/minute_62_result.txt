@@ -1,0 +1,14 @@
+             62	         O
+          Sylla	     S-PER
+              ,	         O
+            who	         O
+            has	         O
+            not	         O
+      impressed	         O
+              ,	         O
+             is	         O
+       replaced	         O
+             by	         O
+        Weimann	     S-PER
+              .	         O
+

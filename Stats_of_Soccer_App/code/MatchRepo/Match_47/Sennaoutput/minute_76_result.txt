@@ -1,0 +1,27 @@
+             76	         O
+             El	     S-LOC
+              -	         O
+         Ahmadi	     S-PER
+           gets	         O
+            the	         O
+      free-kick	         O
+             up	         O
+            and	         O
+           over	         O
+            the	         O
+           wall	         O
+              ,	         O
+            but	         O
+             De	     B-PER
+            Gea	     E-PER
+           gets	         O
+         across	         O
+             to	         O
+           palm	         O
+             it	         O
+           away	         O
+              .	         O
+           Good	         O
+           stop	         O
+              .	         O
+

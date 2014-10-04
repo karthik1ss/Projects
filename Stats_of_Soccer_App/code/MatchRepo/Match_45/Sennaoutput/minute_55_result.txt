@@ -1,0 +1,23 @@
+             55	         O
+         Andros	     B-PER
+       Townsend	     E-PER
+             is	         O
+        warming	         O
+             up	         O
+            for	         O
+          Spurs	     S-ORG
+              -	         O
+            but	         O
+             he	         O
+            has	         O
+           only	         O
+         scored	         O
+           once	         O
+             in	         O
+            the	         O
+         league	         O
+             so	         O
+            far	         O
+           this	         O
+        season.	         O
+

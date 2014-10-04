@@ -1,0 +1,24 @@
+             57	         O
+              A	         O
+          great	         O
+        reverse	         O
+           pass	         O
+           from	         O
+         Chadli	     S-PER
+           ends	         O
+           with	         O
+       Totenham	     S-PER
+        winning	         O
+              a	         O
+         corner	         O
+              ,	         O
+         though	         O
+              .	         O
+       Flanagan	     S-PER
+        manages	         O
+             to	         O
+           head	         O
+             it	         O
+           away	         O
+              .	         O
+

@@ -1,0 +1,25 @@
+             13	         O
+           Just	         O
+             as	         O
+              I	         O
+            say	         O
+           that	         O
+              ,	         O
+         though	         O
+              ,	         O
+            the	         O
+          young	         O
+         winger	         O
+          sends	         O
+            his	         O
+           shot	         O
+            off	         O
+         target	         O
+          after	         O
+          being	         O
+         played	         O
+             in	         O
+             by	         O
+       Coutinho	     S-PER
+              .	         O
+

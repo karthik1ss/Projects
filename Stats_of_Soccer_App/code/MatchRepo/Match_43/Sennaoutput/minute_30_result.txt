@@ -1,0 +1,21 @@
+             30	         O
+        Negredo	     S-PER
+            and	         O
+         Aguero	     S-PER
+       threaten	         O
+           once	         O
+          again	         O
+              ,	         O
+           with	         O
+       Wilshere	     S-PER
+     eventually	         O
+         having	         O
+             to	         O
+          clear	         O
+            the	         O
+           ball	         O
+            for	         O
+              a	         O
+          throw	         O
+              !	         O
+

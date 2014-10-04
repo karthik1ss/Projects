@@ -1,0 +1,25 @@
+             52	         O
+           WIDE	         O
+              !	         O
+             It	         O
+             's	         O
+            all	         O
+         Fulham	     S-ORG
+             as	         O
+        Sidwell	     S-ORG
+            has	         O
+              a	         O
+            pop	         O
+           from	         O
+             25	         O
+          yards	         O
+            but	         O
+            his	         O
+         effort	         O
+          fails	         O
+             to	         O
+            hit	         O
+            the	         O
+         target	         O
+              .	         O
+

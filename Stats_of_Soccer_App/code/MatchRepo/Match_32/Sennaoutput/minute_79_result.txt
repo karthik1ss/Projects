@@ -1,0 +1,13 @@
+             79	         O
+   SUBSTITUTION	         O
+              -	         O
+          Aston	     B-ORG
+          Villa	     E-ORG
+              :	         O
+     Albrighton	     S-PER
+             is	         O
+       replaced	         O
+             by	         O
+         Lowton	     S-PER
+              .	         O
+

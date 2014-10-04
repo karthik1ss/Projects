@@ -1,0 +1,26 @@
+             61	         O
+         Lowton	     S-PER
+           gets	         O
+              a	         O
+           good	         O
+          cross	         O
+           into	         O
+            the	         O
+         centre	         O
+            and	         O
+        Benteke	     S-PER
+          rises	         O
+             to	         O
+           meet	         O
+             it	         O
+              ,	         O
+            but	         O
+            his	         O
+         header	         O
+          loops	         O
+           well	         O
+           over	         O
+            and	         O
+           goes	         O
+           out.	         O
+

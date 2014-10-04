@@ -1,0 +1,22 @@
+             31	         O
+         Rafael	     S-PER
+             is	         O
+              a	         O
+         little	         O
+          over-	         O
+      attentive	         O
+             as	         O
+             he	         O
+          comes	         O
+        through	         O
+            the	         O
+           back	         O
+             of	         O
+        Benteke	     S-LOC
+            and	         O
+          gives	         O
+           away	         O
+              a	         O
+      free-kick	         O
+              .	         O
+

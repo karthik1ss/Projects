@@ -1,0 +1,27 @@
+             77	         O
+          TOURE	     S-PER
+              !	         O
+            The	         O
+        Ivorian	    S-MISC
+         shoots	         O
+           just	         O
+           wide	         O
+              .	         O
+           City	     S-ORG
+            had	         O
+   transitioned	         O
+           from	         O
+            one	         O
+           side	         O
+             of	         O
+            the	         O
+          pitch	         O
+             to	         O
+            the	         O
+          other	         O
+             in	         O
+           just	         O
+              a	         O
+          flash	         O
+              !	         O
+

@@ -1,0 +1,21 @@
+             58	         O
+        PENALTY	         O
+        APPEALS	         O
+              !	         O
+        Walcott	     S-PER
+             's	         O
+         strike	         O
+             is	         O
+        blocked	         O
+             by	         O
+       Zabaleta	     S-PER
+             's	         O
+           hand	         O
+              !	         O
+            The	         O
+        Arsenal	     S-ORG
+        players	         O
+        protest	         O
+     vigorously	         O
+              .	         O
+

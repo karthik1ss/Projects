@@ -1,0 +1,25 @@
+              2	         O
+        Roberto	     B-PER
+        Soldado	     E-PER
+           puts	         O
+          Simon	     B-PER
+       Mignolet	     E-PER
+          under	         O
+       pressure	         O
+        already	         O
+              ,	         O
+           with	         O
+            the	         O
+      Liverpool	     S-ORG
+     goalkeeper	         O
+     responding	         O
+             by	         O
+        kicking	         O
+            the	         O
+           ball	         O
+       straight	         O
+           into	         O
+            the	         O
+          crowd	         O
+              !	         O
+

@@ -1,0 +1,26 @@
+             67	         O
+        Another	         O
+           foul	         O
+             as	         O
+       Coutinho	     S-PER
+             is	         O
+        brought	         O
+           down	         O
+            now	         O
+              .	         O
+          Spurs	     S-ORG
+            can	         O
+             't	         O
+            get	         O
+           back	         O
+           into	         O
+           this	         O
+             if	         O
+           they	         O
+           keep	         O
+         giving	         O
+           away	         O
+           free	         O
+          kicks	         O
+            ...	         O
+

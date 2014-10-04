@@ -1,0 +1,7 @@
+             68	         O
+   Substitution	         O
+         Shinji	     B-PER
+         Kagawa	     I-PER
+          Adnan	     I-PER
+        Januzaj	     E-PER
+

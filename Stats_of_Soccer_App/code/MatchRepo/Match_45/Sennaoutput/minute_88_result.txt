@@ -1,0 +1,21 @@
+             88	         O
+        Nothing	         O
+           that	         O
+        happens	         O
+           from	         O
+           here	         O
+          means	         O
+       anything	         O
+              ,	         O
+         really	         O
+              ,	         O
+           does	         O
+             it	         O
+              ?	         O
+      Liverpool	     S-ORG
+           have	         O
+     maintained	         O
+     possession	         O
+   nevertheless	         O
+            ...	         O
+

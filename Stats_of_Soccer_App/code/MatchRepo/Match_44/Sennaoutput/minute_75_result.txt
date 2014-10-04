@@ -1,0 +1,26 @@
+             75	         O
+           Both	         O
+          sides	         O
+            are	         O
+   relentlessly	         O
+        pushing	         O
+        forward	         O
+            now	         O
+              .	         O
+        Arsenal	     S-ORG
+            for	         O
+        obvious	         O
+        reasons	         O
+              .	         O
+     Manchester	     B-ORG
+           City	     E-ORG
+        because	         O
+           they	         O
+           have	         O
+            the	         O
+     confidence	         O
+             to	         O
+             do	         O
+             so	         O
+              .	         O
+

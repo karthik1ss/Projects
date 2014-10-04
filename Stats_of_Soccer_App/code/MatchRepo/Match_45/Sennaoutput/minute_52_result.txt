@@ -1,0 +1,19 @@
+             52	         O
+             It	         O
+             is	         O
+        cleared	         O
+              ,	         O
+        however	         O
+              ,	         O
+            and	         O
+      Henderson	     S-PER
+         surges	         O
+        forward	         O
+         before	         O
+          being	         O
+         pulled	         O
+           down	         O
+             by	         O
+        Dembele	     S-PER
+              !	         O
+

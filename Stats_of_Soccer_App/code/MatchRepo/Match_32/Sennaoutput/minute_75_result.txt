@@ -1,0 +1,22 @@
+             75	         O
+   SUBSTITUTION	         O
+              -	         O
+            Man	         O
+            Utd	         O
+              :	         O
+          Wayne	     B-PER
+         Rooney	     E-PER
+            won	         O
+             't	         O
+            get	         O
+            his	         O
+      hat-trick	         O
+              .	         O
+             He	         O
+             is	         O
+       replaced	         O
+             by	         O
+         Javier	     B-PER
+      Hernandez	     E-PER
+              .	         O
+

@@ -1,0 +1,21 @@
+             51	         O
+          Spurs	     S-ORG
+        advance	         O
+           once	         O
+          again	         O
+              ,	         O
+           with	         O
+         Lennon	     S-PER
+            and	         O
+         Chadli	     S-ORG
+           both	         O
+        running	         O
+             at	         O
+            the	         O
+      Liverpool	     S-ORG
+           back	         O
+           four	         O
+             at	         O
+           pace	         O
+              .	         O
+

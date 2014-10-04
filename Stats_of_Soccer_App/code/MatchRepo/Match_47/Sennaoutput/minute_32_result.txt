@@ -1,0 +1,25 @@
+             32	         O
+            The	         O
+      free-kick	         O
+           goes	         O
+            all	         O
+            the	         O
+            way	         O
+        towards	         O
+     Agbonlahor	     S-PER
+             at	         O
+            the	         O
+            far	         O
+           post	         O
+              ,	         O
+            but	         O
+            the	         O
+       attacker	         O
+            can	         O
+             't	         O
+          quite	         O
+          reach	         O
+             it	         O
+             in	         O
+          time.	         O
+

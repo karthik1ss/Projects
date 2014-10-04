@@ -1,0 +1,15 @@
+              1	         O
+             We	         O
+            're	         O
+            off	         O
+             at	         O
+          White	     B-LOC
+           Hart	     I-LOC
+           Lane	     E-LOC
+              !	         O
+      Liverpool	     S-LOC
+            get	         O
+             us	         O
+       underway	         O
+              .	         O
+

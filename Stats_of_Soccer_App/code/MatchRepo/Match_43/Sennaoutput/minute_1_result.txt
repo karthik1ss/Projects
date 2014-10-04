@@ -1,0 +1,7 @@
+              1	         O
+        Arsenal	     S-ORG
+           kick	         O
+             us	         O
+            off	         O
+              !	         O
+
