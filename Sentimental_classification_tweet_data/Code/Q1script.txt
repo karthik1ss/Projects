@@ -1,0 +1,34 @@
+Mahout Environment 
+
+cd /usr/local/mahout-0.7/bin
+
+1. Convert Text files to Sequence files
+
+./mahout seqdirectory -c UTF-8 -i /reviews-extracted -o /imdb-seqfiles
+
+examine sequence files :
+./mahout seqdumper -i /imdb-seqfiles/chunk-0 | more
+
+2. Create TF-IDF weighted vectors
+
+./mahout seq2sparse  -i /imdb-seqfiles/ -o /imdb-vectors/ -ow -chunk 100  -x 80  -seq  -ml 50  -n 2  -nv
+
+examine weighted vectors
+./mahout seqdumper -i /imdb-vectors/tfidf-vectors/part-r-00000 
+
+examine tokenized docs
+./mahout seqdumper -i /imdb-vectors/tokenized-documents/part-m-00000
+
+examine dictionary
+./mahout seqdumper -i /imdb-vectors/dictionary.file-0 | more
+
+
+3. Clustering using k-means
+
+./mahout kmeans -i /imdb-vectors/tfidf-vectors/ -c /imdb-kmeans-centroids -cl  -o /imdb-kmeans-clusters -k 60 -ow  -x 10  -dm org.apache.mahout.common.distance.CosineDistanceMeasure
+
+output :
+
+./mahout clusterdump -d /imdb-vectors/dictionary.file-0 -dt sequencefile -i /imdb-kmeans-clusters/clusters-*-final/part-r-00000 -n 20  -b 100 -o /tmp/mahout-sxs129531/Q1clusters.out -p /imdb-kmeans-clusters/clusteredPoints/
+ 
+more /tmp/mahout-sxs129531/Q1clusters.out

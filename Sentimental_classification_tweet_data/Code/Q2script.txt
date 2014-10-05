@@ -1,0 +1,28 @@
+Mahout Environment 
+
+cd /usr/local/mahout-0.7/bin
+
+1. Convert training sets to vectors
+
+/usr/local/mahout-0.7/bin/mahout seq2sparse -i /reviews-seq -o bayes/imdb-vectors -ow -chunk 100  -x 60  -seq  -ml 50  -n 2  -nv
+
+
+2. splitting to training sets and test sets
+
+/usr/local/mahout-0.7/bin/mahout split -i bayes/imdb-vectors/tfidf-vectors --trainingOutput train-vectors --testOutput test-vectors --randomSelectionPct 30 --overwrite --sequenceFiles -xm sequential
+
+3. training set to train classifier
+
+/usr/local/mahout-0.7/bin/mahout trainnb -i train-vectors -el -li labelindex -o model -ow -c 
+
+4. test classfier working on training set
+
+
+/usr/local/mahout-0.7/bin/mahout testnb -i train-vectors -m model -l labelindex -ow -o train-testing -c 
+
+
+5. testing test set
+
+/usr/local/mahout-0.7/bin/mahout testnb -i test-vectors -m model -l labelindex -ow -o test-testing -c  
+
+
