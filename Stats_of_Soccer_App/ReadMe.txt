@@ -1,12 +1,6 @@
 Statistics for Soccer application using NLP
 -------------------------------------------
 
-Project Members
----------------
-1. Rosemary Justin
-2. Santhosh Karthik Sanakayla
-3. Vivek Anand Sampath
-4. Harish Babu Arunachalam
 
 Description:
 ------------
