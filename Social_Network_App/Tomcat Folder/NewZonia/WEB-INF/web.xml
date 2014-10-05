@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.5" 
+	xmlns="http://java.sun.com/xml/ns/javaee" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
+	http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+	<context-param>
+	    <param-name>paypalbuttonid</param-name>
+		<param-value>L937BUZJFFNPJ</param-value>
+	</context-param>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>BrandView</servlet-name>
+    <servlet-class>com.genesis.newzonia.BrandView</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>CheckScreenName</servlet-name>
+    <servlet-class>com.genesis.newzonia.CheckScreenName</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>CreateProject</servlet-name>
+    <servlet-class>com.genesis.newzonia.CreateProject</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>FileUploadDemo</servlet-name>
+    <servlet-class>com.genesis.newzonia.FileUploadDemo</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GetProjectData</servlet-name>
+    <servlet-class>com.genesis.newzonia.GetProjectData</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GetProjectFileDetails</servlet-name>
+    <servlet-class>com.genesis.newzonia.GetProjectFileDetails</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GetProjectMembers</servlet-name>
+    <servlet-class>com.genesis.newzonia.GetProjectMembers</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>initialPlanetRingDetails</servlet-name>
+    <servlet-class>com.genesis.newzonia.initialPlanetRingDetails</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>InsertAsset</servlet-name>
+    <servlet-class>com.genesis.newzonia.InsertAsset</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>InsertProduct</servlet-name>
+    <servlet-class>com.genesis.newzonia.InsertProduct</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>InviteMember</servlet-name>
+    <servlet-class>com.genesis.newzonia.InviteMember</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>JoinProject</servlet-name>
+    <servlet-class>com.genesis.newzonia.JoinProject</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ListProjects</servlet-name>
+    <servlet-class>com.genesis.newzonia.ListProjects</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>LoadStore</servlet-name>
+    <servlet-class>com.genesis.newzonia.LoadStore</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>LoginService</servlet-name>
+    <servlet-class>com.genesis.newzonia.LoginService</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>PostArticle</servlet-name>
+    <servlet-class>com.genesis.newzonia.PostArticle</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>PostEvent</servlet-name>
+    <servlet-class>com.genesis.newzonia.PostEvent</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>RegisterAvatar</servlet-name>
+    <servlet-class>com.genesis.newzonia.RegisterAvatar</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>RegisterMember</servlet-name>
+    <servlet-class>com.genesis.newzonia.RegisterMember</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>RetreiveArticles</servlet-name>
+    <servlet-class>com.genesis.newzonia.RetreiveArticles</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>RetreiveEvent</servlet-name>
+    <servlet-class>com.genesis.newzonia.RetreiveEvent</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>RetreiveInvitations</servlet-name>
+    <servlet-class>com.genesis.newzonia.RetreiveInvitations</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>RetreiveProjects</servlet-name>
+    <servlet-class>com.genesis.newzonia.RetreiveProjects</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>RetrieveAvatar</servlet-name>
+    <servlet-class>com.genesis.newzonia.RetrieveAvatar</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>SearchService</servlet-name>
+    <servlet-class>com.genesis.newzonia.SearchService</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>UpdateProduct</servlet-name>
+    <servlet-class>com.genesis.newzonia.UpdateProduct</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>UserApproval</servlet-name>
+    <servlet-class>com.genesis.newzonia.UserApproval</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>MyContext</servlet-name>
+    <servlet-class>com.genesis.newzonia.MyContext</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>CheckEmail</servlet-name>
+    <servlet-class>com.genesis.newzonia.CheckEmail</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>TickerService</servlet-name>
+    <servlet-class>com.genesis.newzonia.TickerService</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>UpdateProductAvailability</servlet-name>
+    <servlet-class>com.genesis.newzonia.UpdateProductAvailability</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>VerifyTransaction</servlet-name>
+    <servlet-class>com.genesis.newzonia.VerifyTransaction</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>PostScrap</servlet-name>
+    <servlet-class>com.genesis.newzonia.PostScrap</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GetScraps</servlet-name>
+    <servlet-class>com.genesis.newzonia.GetScraps</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>DeleteArticle</servlet-name>
+    <servlet-class>com.genesis.newzonia.DeleteArticle</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>CheckProjectMember</servlet-name>
+    <servlet-class>com.genesis.newzonia.CheckProjectMember</servlet-class>
+  </servlet>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <servlet-mapping>
+    <servlet-name>MyContext</servlet-name>
+    <url-pattern>/servlet/MyContext</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>BrandView</servlet-name>
+    <url-pattern>/services/BrandView</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>CheckScreenName</servlet-name>
+    <url-pattern>/services/CheckScreenName</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>CreateProject</servlet-name>
+    <url-pattern>/services/CreateProject</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>FileUploadDemo</servlet-name>
+    <url-pattern>/FileUploadDemo/FileUpload</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>GetProjectData</servlet-name>
+    <url-pattern>/services/GetProjectData</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>GetProjectFileDetails</servlet-name>
+    <url-pattern>/services/GetProjectFileDetails</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>GetProjectMembers</servlet-name>
+    <url-pattern>/services/GetProjectMembers</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>initialPlanetRingDetails</servlet-name>
+    <url-pattern>/services/initialPlanetRingDetails</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>InsertAsset</servlet-name>
+    <url-pattern>/services/InsertAsset</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>InsertProduct</servlet-name>
+    <url-pattern>/services/InsertProduct</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>InviteMember</servlet-name>
+    <url-pattern>/services/InviteMember</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>JoinProject</servlet-name>
+    <url-pattern>/services/JoinProject</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ListProjects</servlet-name>
+    <url-pattern>/services/ListProjects</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>LoadStore</servlet-name>
+    <url-pattern>/services/LoadStore</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>LoginService</servlet-name>
+    <url-pattern>/services/LoginService</url-pattern>
+  </servlet-mapping>
+
+  <servlet-mapping>
+    <servlet-name>PostArticle</servlet-name>
+    <url-pattern>/services/PostArticle</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>PostEvent</servlet-name>
+    <url-pattern>/services/PostEvent</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>RegisterAvatar</servlet-name>
+    <url-pattern>/services/RegisterAvatar</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>RegisterMember</servlet-name>
+    <url-pattern>/services/RegisterMember</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>RetreiveArticles</servlet-name>
+    <url-pattern>/services/RetreiveArticles</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>RetreiveEvent</servlet-name>
+    <url-pattern>/services/RetreiveEvent</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>RetreiveInvitations</servlet-name>
+    <url-pattern>/services/RetreiveInvitations</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>RetreiveProjects</servlet-name>
+    <url-pattern>/services/RetreiveProjects</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>RetrieveAvatar</servlet-name>
+    <url-pattern>/services/RetrieveAvatar</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>SearchService</servlet-name>
+    <url-pattern>/services/SearchService</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UpdateProduct</servlet-name>
+    <url-pattern>/services/UpdateProduct</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UserApproval</servlet-name>
+    <url-pattern>/services/UserApproval</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>CheckEmail</servlet-name>
+    <url-pattern>/services/CheckEmail</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>TickerService</servlet-name>
+    <url-pattern>/services/TickerService</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UpdateProductAvailability</servlet-name>
+    <url-pattern>/services/UpdateProductAvailability</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>VerifyTransaction</servlet-name>
+    <url-pattern>/services/VerifyTransaction</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>PostScrap</servlet-name>
+    <url-pattern>/services/PostScrap</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>GetScraps</servlet-name>
+    <url-pattern>/services/GetScraps</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>DeleteArticle</servlet-name>
+    <url-pattern>/services/DeleteArticle</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>CheckProjectMember</servlet-name>
+    <url-pattern>/services/CheckProjectMember</url-pattern>
+  </servlet-mapping>
+  
+    <context-param>
+	<param-name>driver</param-name>
+		<param-value>com.mysql.jdbc.Driver</param-value>
+	</context-param>
+	<context-param>
+		<param-name>url</param-name>
+		<param-value>jdbc:mysql://localhost:3306/newzonia</param-value>
+	</context-param>
+	<context-param>
+		<param-name>user</param-name>
+		<param-value>root</param-value>
+	</context-param>
+	<context-param>
+		<param-name>pass</param-name>
+		<param-value>root</param-value>
+	</context-param>
+	<listener>
+	<listener-class>com.genesis.newzonia.MyContext</listener-class>
+	</listener>
+  <welcome-file-list>
+    <welcome-file>newZonia.html</welcome-file>
+  </welcome-file-list>
+</web-app>
