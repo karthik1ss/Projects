@@ -1,5 +1,5 @@
 
-execute Assignment2.py 
+execute AutoCorrection.py 
 
 testset.txt contains input test data of two sentences 
 ./training/trainingset.txt contains corpus
